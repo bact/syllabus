@@ -1,2 +1,4 @@
 # syllabus
-Syllabuses from different people, places, and times.
+
+- [ชาติพันธุ์นิพนธ์อินเทอร์เน็ต](./ethno-online/)
+- 
