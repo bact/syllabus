@@ -1,0 +1,307 @@
+สิ่งที่สนใจคือ Internet หรือ Cyberculture หรือ Information Society ?
+
+Social Shaping Of Information and Communications Technologies, course outline, U of Edinburgh
+http://bit.ly/9IAye
+
+สัปดาห์
+1. Fields/Disciplines
+* Escobar, Arturo. 1994. "Welcome to Cyberia: Notes on the Anthropolgy of Cyberculture". Current Anthropology 35: 211-231. 
+* Jones, Steve. 2006. "Dreams of Fields: Possible Trajectories of Internet Studies". CCS. pp. ix-xvii.
+* Silver, David. 2006.  "Introduction: Where is Internet Studies?". CCS. pp. 1-14.
+* Sterne, Jonathan. 2006. "The Historiography of Cyberculture". CCS. pp. 17-28.
+* Mallapragada, Madhavi. 2006. "An Interdisciplinary Approach to the Study of Cybercultures". CCS. pp. 194-204.
+* Wark, McKenzie. 2006. "Cyberculture Studies: An Antidisciplinary Approach (version 3.0)". CCS. pp. 68-75.
+
+2.  Information Society
+* Garnham, Nicholas. 1998. "Information Society Theory as Ideology". ISR. pp. 165-183.
+* Sandvig, Christian. 2006. "The Structural Problems of the Internet for Cultural Policy". CCS. pp.107-118.
+* Webster, Frank. 2004. "The Information Society". ISR. pp. 9-12.
+* Masuda, Yoneji. 1990. "Image of the Future Information Society". ISR. pp. 15-20.
+* Robins, Kevin, and Frank Webster. 1999. "The Long History of the Information Revolution". ISR. pp. 62-80.
+* Dyson, Esther., George Gilder, George Keyworth, and Alvin Toffler. 1996. "Cyberspace and the American Dream". ISR. pp. 31-41.
+* Winner, Langdon. 1996. "Who will we be in Cyberspace?". ISR. pp. 45-54.
+
+3. Virtualities
+* Poster, Mark. 1995. "The Mode of Information and Postmodernity". ISR. pp. 398-410.
+*  Poster, Mark. 2001. "Theorizing the Virtual: Baudrillard and Derrida". WMI. pp. 129-147.
+* Wilbur, Shawn P. 1997. "An Archaeology of Cyberspaces: Virtuality, Community, Identity". Internet Culture, David Porter (ed.). New York: Routledge.
+* Miller, Daniel. 2003. "The Virtual Moment". Journal of the Royal Anthropological Institute 9: 57-75. http://www.ucl.ac.uk/anthropology/staff/d_miller/mil-4
+* Miller, Daniel. 2003. "Could the Internet de-fetishise the commodity?". Environment and Planning D Society and Space. 21: (3) 359-372. http://www.ucl.ac.uk/anthropology/staff/d_miller/mil-5
+* Levy, Pierre. 1998. Becoming Virtual: Reality in the Digital Age. Plenum Publishing.
+
+4. Methodologies: Ethnographic
+* Miller, Danny, and Don Slater. 2000. The Internet: An Ethnographic Approach. Oxford: Berg.
+* Ignacio, Emily Noelle. 2006. "E-scaping Boundaries: Bridging Cyberspace and Diaspora Studies through Nethnography". CCS. pp. 181-193.
+* Rybas, Natalia., and Radhika Gajjala. 2007. "Developing Cyberethnographic Research Methods  for Understanding Digitally Mediated Identities". Forum: Qualitative Social Research, 8 (3): Art. 35.
+* Mackay, Hugh. 2005. "New Connections, Familiar Settings: Issue in the Ethnographic Study of New Media Use at Home". VM. pp. 129-140.
+* Joinson, Adam N. 2005. "Internet Behaviour and the Design of Virtual Methods". VM. pp. 21-34.
+* Kivits, Joelle. 2005. "Online Interviewing and the Research Relationship". VM. pp. 35-49.
+
+5. Methodologies (cont.)
+* Hine, Christine. 2005. "Virtual Methods and the Sociology of Cyber-Social-Scientific Knowledge". VM. pp. 1-13.
+* Foot, Kirsten. 2006. "Web Sphere Analysis and Cybercultural Studies". CCS. pp. 88-96.
+* Tedre, Matti, and Ron Eglash. 2008. "Ethnocomputing". Software Studies / A Lexicon. MA: MIT Press. pp. 92-100.
+* Roy, Stephannie C., Guy Faulkner., and Sara-Jane Finlay. 2007. "Hard or Soft Searching?: Electronic Database Versus Hand Searching in  Media Research". Forum: Qualitative Social Research, 8 (3): Art. 20.
+* Dodge, Martin. 2005. "The Role of Maps in Virtual Research Methods". VM. pp. 113-127.
+
+6. Identities, Communities
+* Poster, Mark. 2001. "Nations, Identities, and Global Technologies". WMI. pp. 101-128.
+* Poster, Mark. 2001.  "Virtual Ethnicity". WMI. pp. 148-170.
+* Palfrey, John., and Urs Gasser. 2008. "Identities". Born Digital: Understanding the First Generation of Digital Natives. New York: Basic Books. pp. 17-38.
+* Figueroa Sarriera, Heidi J. 2006. "Connecting the Selves: Computer-Mediated Identification Processes". CCS. pp.97-106.
+* Anthony Fung. 2006. Bridging Cyberlife and Real Life: A Study of Online Communities in Hong Kong. CCS. pp. 129-139.
+* Nakamura, Lisa. 2002. Cybertypes: Race, Ethnicity, and Identity on the Internet. Routledge.
+
+7.  Bodies, Subject
+* Zuboff, Shoshana. 1988. "Managing the Informated Organization". ISR. pp. 313-326.
+* Poster, Mark. 2001. "The Being of Technologies". WMI. pp. 21-38.
+* Poster, Mark. 2001. "The Digital Subject and Cultural Theory". WMI. pp. 60-77.
+* Fay, Michaela. 2007. "Mobile Subjects, Mobile Methods: Doing Virtual Ethnography in a Feminist Online Network.". Forum: Qualitative Social Research, 8 (3): Art. 14.
+* White, Michele. 2006. The Body and the Screen: Theories of Internet Spectatorship. MA: MIT Press.
+
+8. Space, Place
+* Varnelis, Kazys., and Anne Friedberg. 2008. "Place: The Networking of Public Space. Networked Publics". MA: MIT Press. pp. 15-42.
+* Dieberger, A., and  A. U. Frank. 1998. "A city metaphor to support navigation in complex information spaces". Journal of Visual Languages and Computing, 9(6):597-622.
+* Guimaraes Jr, Mario J. L. 2005. "Doing Anthropology in Cyberspace: Fieldwork Boundaries and Social Environments". VM. pp. 141-156.
+* Mitchell, William J. 2004. Me++: The Cyborg Self and the Networked City. MA: MIT Press.
+* Mitchell, William J. 1996. City of Bits: Space, Place, and the Infobahn. MA: MIT Press.
+
+9. Public Sphere, New Media
+* Habermas, Jurgen. 1974. "The Public Sphere". ISR. pp. 350-356.
+* Granham, Nicholas. 1990. "The Media and the Public Sphere". ISR. pp. 357-365.
+* Keane, John. 1995. "Structural Transformations of the Public Sphere". ISR. pp. 366-378.
+* Papacharissi, Zizi. 2002. "The Virtual Sphere: The Internet as a Public Sphere". ISR. pp. 379-392.
+
+10. Politics
+* Philips, David J.. 2006. "Cyberstudies and the Politics of Visibility". CCS. pp. 216-227.
+
+11. Surveillance, Privacy, Anonymity
+* Blom, Raimo. 2004. "Surveillance: Introduction". ISR. pp. 
+* Lyon, David. 2001. "New Directions in Theory". ISR. pp. 327-344.
+* Dreyfus, Hubert L. 2009. "Nihilism on the Information Superhighway: Anonymity vs. Commitment in the Present Age". On the Internet, 2nd edition. Oxford: Routledge. pp. 72-88.
+* Solove, Daniel J. 2007. The Future of Reputation : Gossip, Rumor, and Privacy on the Internet. Yale University Press.
+* Brignall, Thomas. (2004).  The Panopticon Revisited: Internet Surveillance after September 11, 2001. Paper presented at the annual meeting of the American Sociological Association, Hilton San Francisco & Renaissance Parc 55 Hotel, San Francisco, CA, Aug 14, 2004. http://www.allacademic.com/meta/p108620_index.html
+
+12. Authorship, Hypertextuality, , Read/Write Culture, Remix, Fandom
+* Poster, Mark. 2001. "Authors Analogue and Digital". WMI. pp. 78-100.
+* Lessig, Lawrence . 2008. Remix: Making Art and Commerce Thrive in the Hybrid Economy. New York: Penguin Press.
+* Mason, Matt. 2008. Chapter 3: We Invented the Remix: Cut-'n'-Paste Culture Creates Some New Common Ground. The Pirate's Dilemma: How Youth Culture Is Reinventing Capitalism. New York: Free Press. pp. 68-102.
+* Landow, George P. 2005. Hypertext 3.0: Critical Theory And New Media in a Global Era. Johns Hopkins University Press.
+
+13. Economy, Consumption
+* Poster, Mark. 2001. "Capitalism's Linguistic Turn". WMI. pp. 39-59.
+* Stehr, Nico. 1994. "The Economic Structure of Knowledge Socities". ISR. pp. 212-236.
+* Castells, Manuel. 2001. "The Information City, the New Economy, and the Network Society". ISR. pp. 150-164.
+* Urry, John. 2000. "Mobile Sociology". ISR. pp. 190-203.
+* Forte, Maximilian C. 2005. "Centering the Links: Understanding Cybernetic Patterns of Co-production, Circulation and Consumption". VM. pp. 93-106.
+* Kelty, Christopher M. 2008. Two Bits: The Cultural Significance of Free Software. Duke University Press. http://twobits.net/read/
+
+14. Language on the Internet,  Literacy
+* Shillingsburg, Peter L. 2006. "Script act theory". From Gutenberg to Google: Electronic Representation of Literary Texts. Cambridge: Cambridge University Press. pp. 40-79.
+* Shillingsburg, Peter L. 2006. "An electronic infrastructure for representing script acts". From Gutenberg to Google: Electronic Representation of Literary Texts. Cambridge: Cambridge University Press. pp. 80-125.
+* David Crystal (2006). Language and the Internet, 2nd Ed. (มีเรื่อง lang normalization ด้วย)
+** Chapter 2: The medium of Netspeak. pp. 26-65.
+** Chapter 7: The language of the Web. pp. 203-237.
+** Chapter 8: New varieties. pp. 238-256. (blog - blurred private/public presence)
+* Anderson, Jon. 1995. "'Cyberites', Knowledge Workers and New Creoles on the Superhighway". Anthropology Today, Vol 11, No 4 (August): 13-15.
+
+15.  New Literacy, Games, Interaction
+
+16. Cybersubculture
+* David Bell (2001). Chapter 8: Cybersubcultures. An Introduction to Cybercultures, pp. 163-185.
+
+
+CCS = Silver, David and Massanari, Adrienne (ed). 2006. Critical Cyberculture Studeis. New York: New York University Press.
+ISR = Webster, Frank (ed). 2004. The Information Society Reader. London: Routledge.
+WMI = Poster, Mark. 2001. What's the Matter with the Internet? Minneapolis: University of Minnesota Press.
+VM = Hine, Christine (ed). 2005. Virtual Methods: Issues in Social Research on the Internet. Oxford: Berg.
+
+
+== Information Society ==
+Frank Webster. 2004. "The Information Society". ISR. pp. 9-12.
+Yoneji Masuda. 1990. "Image of the Future Information Society". ISR. pp. 15-20.
+Nicholas Garnham. 1998. "Information Society Theory as Ideology". ISR. pp. 165-183.
+Kevin Robins and Frank Webster. 1999. "The Long History of the Information Revolution". ISR. pp. 62-80.
+
+Esther Dyson, George Gilder, George Keyworth, and Alvin Toffler. 1996. "Cyberspace and the American Dream". ISR. pp. 31-41.
+Langdon Winner. 1996. "Who will we be in Cyberspace?". ISR. pp. 45-54.
+
+== Virtualities ==
+Mark Poster. 1995. "The Mode of Information and Postmodernity". ISR. pp. 398-410.
+"Theorizing the Virtual: Baudrillard and Derrida". WMI. pp. 129-147.
+"Virtual Ethnicity". WMI. pp. 148-170.
+Wilbur, Shawn P. 1997. "An Archaeology of Cyberspaces: Virtuality, Community, Identity". Internet Culture, David Porter (ed.). New York: Routledge.
+
+Miller, Daniel. 2003. "The Virtual Moment". Journal of the Royal Anthropological Institute 9: 57-75. http://www.ucl.ac.uk/anthropology/staff/d_miller/mil-4
+Miller, Daniel. 2003. "Could the Internet de-fetishise the commodity?". Environment and Planning D Society and Space. 21: (3) 359-372. http://www.ucl.ac.uk/anthropology/staff/d_miller/mil-5
+
+== Public Sphere ==
+Jurgen Habermas. 1974. "The Public Sphere". ISR. pp. 350-356.
+Nicholas Granham. 1990. "The Media and the Public Sphere". ISR. pp. 357-365.
+John Keane. 1995. "Structural Transformations of the Public Sphere". ISR. pp. 366-378.
+Zizi Papacharissi. 2002. "The Virtual Sphere: The Internet as a Public Sphere". ISR. pp. 379-392.
+
+== Economics ==
+Nico Stehr. 1994. "The Economic Structure of Knowledge Socities". ISR. pp. 212-236.
+Manuel Castells. 2001. "The Information City, the New Economy, and the Network Socieyt". ISR. pp. 150-164.
+John Urry. 2000. "Mobile Sociology". ISR. pp. 190-203.
+Mark Poster. 2001. "Capitalism's Linguistic Turn". WMI. pp. 39-59.
+
+
+"The Being of Technologies". WMI. pp. 21-38.
+Poster, Mark. 2001. "Authors Analogue and Digital". WMI. pp. 78-100.
+"Nations, Identities, and Global Technologies". WMI. pp. 101-128.
+"The Digital Subject and Cultural Theory". WMI. pp. 60-77.
+Poster, Mark. 2001. What's the Matter with the Internet? Minneapolis: University of Minnesota Press.
+
+
+== Body / Control of ==
+Shoshana Zuboff. 1988. "Managing the Informated Organization". ISR. pp. 313-326.
+
+== Surveillance ==
+Raimo Blom. 2004. "Surveillance: Introduction". ISR. pp. 
+David Lyon. 2001. "New Directions in Theory". ISR. pp. 327-344.
+
+Dreyfus, Hubert L. 2009. "Nihilism on the Information Superhighway: Anonymity vs. Commitment in the Present Age". On the Internet, 2nd edition. Oxford: Routledge. pp. 72-88.
+
+== Politics ==
+David J. Philips. 2006. "Cyberstudies and the Politics of Visibility". CCS. pp. 216-227.
+
+== Languages ==
+
+Shillingsburg, Peter L. 2006. "Script act theory". From Gutenberg to Google: Electronic Representation of Literary Texts. Cambridge: Cambridge University Press. pp. 40-79.
+Shillingsburg, Peter L. 2006. "An electronic infrastructure for representing script acts". From Gutenberg to Google: Electronic Representation of Literary Texts. Cambridge: Cambridge University Press. pp. 80-125.
+
+
+
+
+Anthropology and the Internet or Anthropology of the Internet
+มนุษย์และอินเทอร์เน็ต - อินเทอร์เน็ตกระทบส่งผลสัมพันธ์ยังไงกับมนุษย์ สองอย่างแยกกัน
+มนุษย์ในอินเทอร์เน็ต - สองอย่างอยู่ซ้อนกัน
+แต่ถ้าจะแบ่งสองอย่างแบบนั้น จะหมายถึงว่า อินเทอร์เน็ตไม่ได้เป็นส่วนหนึ่งของโลกจริง ๆ ?
+
+ประเด็น
+
+* methodology
+* คน
+* พื้นที่
+* ทัศนะ
+* สื่อ
+* ชาติพันธุ์ เชื้อชาติ 
+* ภาษา
+* การอ่านออกเขียนได้
+* literacy, new literacy
+* read/write culture , fandom
+* economy
+* politics
+* community
+* identities
+* bodies
+* languages
+
+Social Shaping Of Information and Communications Technologies, course outline, U of Edinburgh
+http://bit.ly/9IAye
+
+
+== Languages ==
+* David Crystal (2006). Language and the Internet, 2nd Ed.
+
+Chapter 2: The medium of Netspeak. pp. 26-65.
+Chapter 7: The language of the Web. pp. 203-237.
+Chapter 8: New varieties. pp. 238-256. (blog - blurred private/public presence)
+
+
+== Read/Write ==
+* Lawrence Lessig (2008). Remix: Making Art and Commerce Thrive in the Hybrid Economy. New York: Penguin Press.
+* Matt Mason (2008). Chapter 3: We Invented the Remix: Cut-'n'-Paste Culture Creates Some New Common Ground. The Pirate's Dilemma: How Youth Culture Is Reinventing Capitalism, pp. 68-102. New York: Free Press.
+* David Bell (2001). Chapter 8: Cybersubcultures. An Introduction to Cybercultures, pp. 163-185.
+
+== ชาติพันธุ์นิพนธ์ ==
+Natalia Rybas & Radhika Gajjala (2007). Developing Cyberethnographic Research Methods  for Understanding Digitally Mediated Identities. Forum: Qualitative Social Research, 8 (3): Art. 35.
+
+== อินเทอร์เน็ต ในฐานะ พื้นที่สารสนเทศ ==
+* อุปลักษณ์เมือง ในพื้นที่สารสนเทศ
+Dieberger, A. and Frank, A. U. (1998). A city metaphor to support navigation in complex information spaces. Journal of Visual Languages and Computing, 9(6):597-622.
+
+== Anthropology and the Internet ==
+
+ANTHRO 247/331 Anthropology Today: Debates in Culture
+The University of Auckland
+http://www.library.auckland.ac.nz/subjects/anthro/course-pages/anthro247.htm
+
+Week 3 Perspectives on Cyberculture: Anthropology and the Internet - Cris Shore
+
+Modern information and communication technologies (ICTs) provide an extremely useful tool for gathering and analysing anthropological data. However, ICTs - particularly the Internet - have also had a major impact on the shape and character of contemporary culture, particularly in the way people work, think and relate to the world (and to one another). In short, the revolution in information technology is itself a fascinating anthropological phenomenon. This session explores some of the effects of IT on our contemporary world. It also looks at the implications for anthropology and probes what an 'Anthropology of the Internet' might entail.
+
+Questions to consider
+    * What are the implications of the rise of the Internet for anthropological analysis?
+    * What impact has the Internet had on the fabric of contemporary society? In what ways are the cultural consequences f the Internet comparable to other forms of IT?
+    * Is the increasing use of computer technology in third world countries (for example, Egypt) evidence of 'Westernization'?
+
+Reading
+    * Ali Abu Hashish, Shereen and Peterson, Mark 1999, Computer Khatbas: Data Bases and Marital Entrepreneurship in Modern Cairo Anthropology Today, Vol. 15, No. 6. (Dec.): 7-11.
+    * Anderson, Jon 1995 "Cyberites", Knowledge Workers and New Creoles on the Superhighway, Anthropology Today, Vol 11, N0 4 (August): 13-15.
+    * Bell, David and Barbara M.  Kennedy (eds) 2000 The Cybercultures Reader, London: Routledge.
+    * Eriksen, Thomas Hylland 2001 Tyranny of the Moment: Fast and Slow Time in the Information Age,, London/New York: Pluto.
+    * Escobar, Arturo 1994 Welcome to Cyberia! Notes on the Anthropology of Cyberculture?, Current Anthropology, 35 (3): 211-231
+    * Escobar, Arturo 1995 Anthropology And The Future - New Technologies and the Reinvention of Culture, Futures 27 (4): 409-421 May 1995
+    * Hafner, Katie and Lyon, Matthew 1996 Where Wizards Stay Up Late: The Origins of the Internet, New York: Touchstone Books.
+    * Miller, Danny and Slater, Don 2000 The Internet. An Ethnographic Approach, Oxford: Berg.
+    * Nancy Scheper-Hughes, 1996 Theft of Life: The Globalization of Organ Stealing Rumours,  Anthropology Today, Vol. 12, No. 3. (Jun., 1996): 3-11.
+    * Slevin, James 2000 The Internet and Society, Cambridge: Polity Press
+
+== Anthropology of Internet Communities ==
+http://danny.oz.au/anthropology/net-paper/biblio.html
+
+Book Reviews
+http://dannyreviews.com/s/Internet.html
+
+# Daniel J. Barrett: Bandits on the Information Superhighway*
+- privacy, spams, scams, hoaxes, ...
+# Michael Benedikt: Cyberspace: First Steps
+- information representations and virtual reality interfaces
+# Christine L. Borgmann: From Gutenberg to the Global Information Infrastructure
+- all about digital libraries
+# William R. Cheswick, et al.: Firewalls and Internet Security
+Repelling the Wily Hacker
+# Brad Cox: Superdistribution
+Objects as Property on the Electronic Frontier
+# David Crystal: Language and the Internet
+- a linguist on Netspeak: email, chat, virtual worlds, and the Web
+# Dorothy E. Denning, Peter J. Denning: Internet Besieged
+Countering Cyberspace Scofflaws
+# Suelette Dreyfus: Underground
+Tales of Hacking, Madness and Obsession on the Electronic Frontier
+# Philip Greenspun: Database Backed Web Sites*
+The Thinking Person's Guide to Web Publishing
+# Steven G. Jones: CyberSociety
+Computer-Mediated Communication and Community
+# Brian Kahin, Charles Nesson: Borders in Cyberspace
+Information Policy and the Global Information Infrastructure
+# Brian Kahin, James Keller: Public Access to the Internet
+# Brian Kahin, James H. Keller: Coordinating the Internet
+- governance, domain names, and interconnection agreements
+# Rohit Khare: Web Security
+A Matter of Trust
+# Rick Levine, et al.: The Cluetrain Manifesto*
+The End of Business as Usual
+# Jessica Litman: Digital Copyright**
+- intellectual property and the Internet
+# Steven E. Miller: Civilizing Cyberspace
+Policy, Power, and the Information Superhighway
+# Jakob Nielsen, Marie Tahir: Homepage Usability*
+50 Websites Deconstructed
+# Jakob Nielsen: Designing Web Usability**
+The Practice of Simplicity
+# Robin P. Peek, Gregory B. Newby: Scholarly Publishing
+The Electronic Frontier
+# Peter H. Salus: Casting the Net
+From ARPANET to Internet and Beyond
+# Bruce Schneier, David Banisar: The Electronic Privacy Papers
+Documents on the Battle for Privacy in the Age of Surveillance
+# Bruce Schneier: Secrets and Lies*
+Digital Security in a Networked World
+# Alan Schwartz, Simson Garfinkel: Stopping Spam 
+
+
+
